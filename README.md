@@ -1,3 +1,3 @@
-# ai-image-prompts
+# oxcmd/ai-image-prompts
 
-Builder mode đã bật.
+Builder mode bat.
